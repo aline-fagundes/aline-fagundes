@@ -13,9 +13,9 @@ I'm Aline Napoli Fagundes.
 const aline = {
   pronouns: ["she", "her"],
   role: "Full Stack Software Developer",
-  education: ["USP", "Digital House"],
+  education: ["USP", "Digital House", "Alura"],
   location: "São Paulo, Brazil",
-  technologies: ["Java", "Javascript", "HTML", "CSS", "Python"],
+  technologies: ["Java", "Javascript", "HTML", "CSS", "Python", "SQL"],
   fun fact: "My first line of code was not 'Hello World!'".
 }
 ```
