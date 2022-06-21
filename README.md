@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="40px"></h1>
 <p align="center">
   <samp>
 I'm Aline Napoli Fagundes. 
