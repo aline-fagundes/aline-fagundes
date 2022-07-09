@@ -3,7 +3,7 @@
   <samp>
 I'm Aline Napoli Fagundes. 
   <br> <br>
-💻 I'm on track with learning more about Java, Angular/JS and Python.
+💻 I'm on track with learning more about Java and Spring Framework.
   </samp>
 <br>
   
