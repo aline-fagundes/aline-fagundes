@@ -12,7 +12,7 @@ I'm Aline Napoli Fagundes.
 ```javascript
 const aline = {
   pronouns: ["she", "her"],
-  role: "Back-end Software Developer",
+  role: "Back-end Java Software Developer",
   education: ["USP", "Digital House", "Alura", "DIO"],
   location: "São Paulo, Brazil",
   technologies: ["Java", "Javascript", "Typescript", "HTML", "CSS", "SQL"],
