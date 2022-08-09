@@ -18,9 +18,10 @@ const aline = {
   technologies: ["Java", "Spring Framework", "Spring Security", "Spring Data", "Spring Boot"],
   ide: ["Eclipse", "IntelliJ"],
   tests: ["JUnit 5", "Mockito"],
+  documentation: "Swagger",
   database: ["SQL", "MySQL Workbench", "MongoDB"],
-  tools: ["Git", "GitHub", "Maven", "Swagger", "Postman", "Slack", "Heroku", "Trello", "Miro"],
-  methodology: "Agile | Scrum",
+  tools: ["Git", "GitHub", "Maven", "Postman", "Slack", "Docker", "Heroku", "Trello", "Miro"],
+  methodology: "Agile - Scrum",
   fun fact: "My first line of code was not 'Hello World!'".
 }
 ```
@@ -32,8 +33,17 @@ const aline = {
   <br>
   <img align="center" alt="Aline-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Aline-SpringSecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+  <img align="center" alt="Aline-SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+  <img align="center" alt="Aline-SpringData" src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=DBSpring&logoColor=white">
   <br>
   <br>
+  <img alt="Aline-JUnit" src="https://img.shields.io/badge/JUnit-CC0000?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img alt="Aline-Postman" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Aline-Swagger" src="https://img.shields.io/badge/Swagger-59666C?style=for-the-badge&logo=Swagger&logoColor=white">
+  <img alt="Aline-Docker" src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white">
+  <img alt="Aline-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <br>
+  <br> 
   <img align="center" alt="Aline-Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img align="center" alt="Aline-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Aline-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
