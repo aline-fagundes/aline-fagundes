@@ -15,13 +15,13 @@ const aline = {
   role: "Java Back-end Developer",
   education: ["USP", "Digital House", "Alura", "DIO", "ProWay"],
   location: "São Paulo, Brazil",
-  technologies: ["Java", "Spring Framework", "Spring Security", "Spring Data", "Spring Boot"],
-  ide: ["Eclipse", "IntelliJ"],
+  technologies: ["Java", "Spring Framework", "Spring Security", "Spring Data", "Spring Boot", "HTML", "CSS", "Javascript"],
+  ide: ["Eclipse", "IntelliJ", "Visual Studio Code],
   tests: ["JUnit 5", "Mockito"],
   documentation: "Swagger",
   database: ["SQL", "MySQL Workbench", "MongoDB"],
   tools: ["Git", "GitHub", "Maven", "Postman", "Slack", "Docker", "Heroku", "Trello", "Miro"],
-  methodology: "Agile - Scrum",
+  methodology: "Agile - Scrum", 
   fun fact: "My first line of code was not 'Hello World!'".
 }
 ```
