@@ -39,7 +39,7 @@ const aline = {
   <br>
   <img alt="Aline-JUnit" src="https://img.shields.io/badge/JUnit-CC0000?style=for-the-badge&logo=JUnit5&logoColor=white">
   <img alt="Aline-Postman" src="https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=postman&logoColor=white">
-  <img alt="Aline-Swagger" src="https://img.shields.io/badge/Swagger-59666C?style=for-the-badge&logo=Swagger&logoColor=white">
+  <img alt="Aline-Swagger" src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black">
   <img alt="Aline-Docker" src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=Docker&logoColor=white">
   <img alt="Aline-Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <br>
