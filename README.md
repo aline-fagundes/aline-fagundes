@@ -20,7 +20,7 @@ const aline = {
   tests: ["JUnit 5", "Mockito"],
   documentation: "Swagger",
   database: ["SQL", "MySQL Workbench", "MongoDB"],
-  tools: ["Git", "GitHub", "Maven", "Postman", "Slack", "Docker", "Heroku", "Trello", "Miro"],
+  tools: ["Git", "GitHub", "Maven", "Gradle", "Postman", "Slack", "Docker", "Heroku", "Trello", "Miro"],
   methodology: ["Agile - Scrum", "Kanban"], 
   fun fact: "My first line of code was not 'Hello World!'".
 }
