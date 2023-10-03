@@ -3,7 +3,7 @@
   <samp>
 I'm Aline Napoli Fagundes. 
   <br> <br>
-💻 I'm on track with learning more about Java, Spring Framework and Angular.
+💻 I'm on track with learning more about Java, Spring Framework, Angular and AWS
   </samp>
 <br>
   
@@ -13,14 +13,14 @@ I'm Aline Napoli Fagundes.
 const aline = {
   pronouns: ["she", "her"],
   role: "Java Back-end Developer",
-  education: ["USP", "Digital House", "Alura", "DIO", "ProWay"],
+  education: ["USP", "Alura", "Digital House", "ProWay", "IFSP", "DIO"],
   location: "São Paulo, Brazil",
   technologies: ["Java", "Spring Framework", "Spring Security", "Spring Data", "Spring Boot"],
   ide: ["Eclipse", "IntelliJ"],
   tests: ["JUnit 5", "Mockito"],
   documentation: "Swagger",
-  database: ["SQL", "MySQL Workbench", "MongoDB"],
-  tools: ["Git", "GitHub", "Maven", "Gradle", "Postman", "Slack", "Docker", "Heroku", "Trello", "Miro"],
+  database: ["SQL", "DB2", "MariaDB"],
+  tools: ["Git", "GitHub", "Bitbucket", "Maven", "Gradle", "Postman", "Docker", "Kubernetes", "Jenkins"],
   methodology: ["Agile - Scrum", "Kanban"], 
   fun fact: "My first line of code was not 'Hello World!'".
 }
