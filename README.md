@@ -3,8 +3,9 @@
   <samp>
 I'm Aline Napoli Fagundes. 
   <br> <br>
-💻 I'm on track with learning more about Java, Spring Framework and AWS.
+💻 I'm passionate about building scalable, secure and resilient systems — and currently working with Java, Spring Boot and Azure.
   </samp>
+
 <br>
   
 <h2 align="center"> About me </h2>
@@ -21,7 +22,7 @@ const aline = {
   tests: ["JUnit 5", "Mockito"],
   documentation: "Swagger",
   database: ["SQL", "DB2", "MariaDB"],
-  cloud: ["AWS", "Azure"],
+  cloud: ["Azure", "AWS", "Terraform"],
   tools: ["Git", "GitHub", "Bitbucket", "Maven", "Gradle", "Postman", "Docker", "Kubernetes", "Jenkins"],
   methodology: ["Agile - Scrum", "Kanban"], 
   fun fact: "My first line of code was not 'Hello World!'".
